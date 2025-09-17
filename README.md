@@ -18,11 +18,15 @@ You no longer need to manually manage two states every time you implement a dele
 
 ## Installation
 
-`npm install use-deletable`
+```bash
+npm install use-selectable
+```
 
-or
+or with Yarn:
 
-`yarn add use-deletable`
+```bash
+yarn add use-selectable
+```
 
 ## Usage
 

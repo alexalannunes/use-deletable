@@ -82,3 +82,10 @@ The hook returns:
 - `target` – the item currently marked for deletion.
 - `onOpenDelete(target: T)` – call this to open the modal and set the item.
 - `onCancelDelete()` – call this to close the modal and clear the item.
+
+
+## More
+
+Try other hooks
+
+* [use-selectable](https://github.com/alexalannunes/use-selectable)

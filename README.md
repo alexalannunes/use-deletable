@@ -13,16 +13,16 @@ This repetition was tedious and error-prone.
 
 ## Solution
 
-use-deletable encapsulates this logic into a single hook.
+`use-deletable` encapsulates this logic into a single hook.
 You no longer need to manually manage two states every time you implement a delete confirmation.
 
 ## Installation
 
-npm install use-deletable
+`npm install use-deletable`
 
 or
 
-yarn add use-deletable
+`yarn add use-deletable`
 
 ## Usage
 
@@ -75,5 +75,5 @@ The hook returns:
 
 - deleteOpen – boolean indicating if the modal should be open.
 - target – the item currently marked for deletion.
-- onOpenDelete(itemId: string) – call this to open the modal and set the item.
+- onOpenDelete(target: T) – call this to open the modal and set the item.
 - onCancelDelete() – call this to close the modal and clear the item.

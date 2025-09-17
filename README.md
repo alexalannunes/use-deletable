@@ -45,6 +45,7 @@ function App() {
     <div>
       <h1>Basic Demo</h1>
       <div className="card">
+        {/* modal here */}
         {deleteOpen && (
           <div
             style={{

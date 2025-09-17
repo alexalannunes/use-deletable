@@ -1,11 +1,13 @@
 {
   "name": "use-deletable",
   "description": "React hook to manage item deletion confirmation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsup src/index.ts --format cjs,esm --dts",
     "prepublishOnly": "npm run build"

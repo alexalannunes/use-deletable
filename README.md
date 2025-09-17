@@ -74,11 +74,6 @@ function App() {
 export default App;
 ```
 
-## Demo
-
-https://github.com/user-attachments/assets/d9a29959-21e7-497a-99a7-19285f91d353
-
-
 ## API
 
 The hook returns:

@@ -29,7 +29,10 @@
     "hook",
     "delete",
     "modal",
-    "state"
+    "state",
+    "react-hooks",
+    "deletable",
+    "deletion"
   ],
   "author": "alexalannunes",
   "license": "MIT"

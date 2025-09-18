@@ -1,7 +1,7 @@
 {
   "name": "use-deletable",
   "description": "React hook to manage item deletion confirmation",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",

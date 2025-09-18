@@ -88,4 +88,4 @@ The hook returns:
 
 Try other hooks
 
-* [use-selectable](https://github.com/alexalannunes/use-selectable)
+* [use-selectable](https://www.npmjs.com/package/use-selectable)
